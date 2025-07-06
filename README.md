@@ -54,7 +54,7 @@
 
 ###
 
-<h6 align="left">Hi there 👋<br>I'm Vincent — a curious and creative developer who loves building things that work and make sense.<br>I enjoy working across the stack, from clean frontend interfaces to solid backend logic, with a particular interest in performance, developer experience, and elegant architecture.<br><br>I'm always learning, always iterating, and always open to new challenges. Whether it's crafting a user-centric web app, diving into low-level programming, or just simplifying something complex — I like doing it right.<br><br>Currently coding, exploring, and sometimes overengineering things for fun.</h6>
+<h3 align="left">Hi there 👋<br>I'm Vincent — a curious and creative developer who loves building things that work and make sense.<br>I enjoy working across the stack, from clean frontend interfaces to solid backend logic, with a particular interest in performance, developer experience, and elegant architecture.<br><br>I'm always learning, always iterating, and always open to new challenges. Whether it's crafting a user-centric web app, diving into low-level programming, or just simplifying something complex — I like doing it right.<br><br>Currently coding, exploring, and sometimes overengineering things for fun.</h3>
 
 ###
 
