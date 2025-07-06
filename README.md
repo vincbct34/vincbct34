@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/adonisjs/5A45FF" height="10" alt="adonisjs logo"  />
+  <img src="https://cdn.simpleicons.org/adonisjs/5A45FF" width="40" height="40" alt="adonisjs logo" />
 </div>
 
 ###
