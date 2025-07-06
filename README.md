@@ -3,6 +3,44 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" height="60" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" width="60" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="60" height="60" alt="haskell logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="postgresql logo"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/vincent-bichat/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -16,18 +54,18 @@
 
 ###
 
+<<<<<<< HEAD
+<h6 align="left">Hi there 👋<br>I'm Vincent — a curious and creative developer who loves building things that work and make sense.<br>I enjoy working across the stack, from clean frontend interfaces to solid backend logic, with a particular interest in performance, developer experience, and elegant architecture.<br><br>I'm always learning, always iterating, and always open to new challenges. Whether it's crafting a user-centric web app, diving into low-level programming, or just simplifying something complex — I like doing it right.<br><br>Currently coding, exploring, and sometimes overengineering things for fun.</h6>
+=======
 <div align="center">
   <img src="https://cdn.simpleicons.org/adonisjs/5A45FF" width="40" height="40" alt="adonisjs logo" />
 </div>
-
-###
-
-<h4 align="left">Hi there 👋<br>I'm Vincent — a curious and creative developer who loves building things that work and make sense.<br>I enjoy working across the stack, from clean frontend interfaces to solid backend logic, with a particular interest in performance, developer experience, and elegant architecture.<br><br>I'm always learning, always iterating, and always open to new challenges. Whether it's crafting a user-centric web app, diving into low-level programming, or just simplifying something complex — I like doing it right.<br><br>Currently coding, exploring, and sometimes overengineering things for fun.</h4>
+>>>>>>> bac410b38cf28b62abda0741a93fca3fa136211b
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincbct34&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincbct34&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=vincbct34&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
