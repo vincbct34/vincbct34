@@ -64,9 +64,9 @@ My approach:
 
 <div align="center">
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vincbct34&layout=compact&theme=tokyonight&hide_border=true&card_width=400)
+  [![Top Langs](./assets/top-langs.svg)](https://github.com/vincbct34)
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=vincbct34&theme=tokyonight&hide_border=true&border_radius=5)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=vincbct34&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
   
 </div>
 

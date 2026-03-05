@@ -1,0 +1,28 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # Run daily at 3 AM UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate top-langs card
+        uses: stats-organization/github-readme-stats-action@main
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add assets/top-langs.svg
+          git commit -m "chore: update github stats" || exit 0
+          git push
