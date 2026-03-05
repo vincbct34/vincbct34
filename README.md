@@ -1,72 +1,141 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&lines=Full-Stack+Developer;Performance+Enthusiast;Always+Learning;Ship+Quality+Code)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" height="60" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" width="60" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="60" height="60" alt="haskell logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="postgresql logo"  />
+
+# Vincent Bichat
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-bichat/)
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:vincent.bichat@epitech.eu)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vincent_bct34/)
+[![GitHub](https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/vincbct34)
+
 </div>
 
-###
+---
+
+## 🎯 About Me
+
+I'm a **passionate full-stack developer** who believes that great code is an art form. I specialize in building scalable, performant applications while maintaining clean architecture and exceptional developer experience.
+
+My approach:
+
+- 🏗️ **Architecture-First Thinking** — Design systems before implementation
+- ⚡ **Performance is Non-Negotiable** — Every line of code should count
+- 💎 **Code Quality Obsessed** — Readable, maintainable, beautiful code
+- 🔬 **Continuous Learner** — Always exploring new technologies and paradigms
+- 🚀 **Ambitious Builder** — From MVP to production-grade systems
+
+---
+
+## 💼 Skills & Expertise
+
+### **Frontend & UI**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### **Backend & Infrastructure**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+
+### **Systems & Low-Level**
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Haskell](https://img.shields.io/badge/-Haskell-5E5086?style=flat-square&logo=haskell&logoColor=white)
+
+### **Tools & Platforms**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+---
+
+## 📊 GitHub Insights
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vincent-bichat/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/vincent_bct34/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="mailto:vincent.bichat@epitech.eu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  </a>
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vincbct34&layout=compact&theme=tokyonight&hide_border=true&card_width=400)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=vincbct34&theme=tokyonight&hide_border=true&border_radius=5)
+  
 </div>
 
-###
+---
 
-<h3 align="left">Hi there 👋<br>I'm Vincent — a curious and creative developer who loves building things that work and make sense.<br>I enjoy working across the stack, from clean frontend interfaces to solid backend logic, with a particular interest in performance, developer experience, and elegant architecture.<br><br>I'm always learning, always iterating, and always open to new challenges. Whether it's crafting a user-centric web app, diving into low-level programming, or just simplifying something complex — I like doing it right.<br><br>Currently coding, exploring, and sometimes overengineering things for fun.</h3>
+## 🚀 What I'm Currently Doing
 
-###
+- 💻 Building full-stack applications with modern tech stacks
+- 🎓 Deepening knowledge in system design and distributed systems
+- 🔍 Exploring AI/ML applications in web development
+- 🌐 Contributing to projects that improve developer experience
+- 📚 Always learning — currently diving into functional programming paradigms
 
-<table>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincbct34&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150"   alt="languages graph"  /> <br>
-    <img src="https://streak-stats.demolab.com?user=vincbct34&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  </div>
-</table>
+---
 
-###
+## 🎨 Areas of Interest
 
-<img src="https://raw.githubusercontent.com/vincbct34/vincbct34/output/snake.svg" alt="Snake animation" />
+| **Area** | **Focus** |
+|----------|-----------|
+| 🎯 **Web Development** | React, Next.js, modern frontend frameworks |
+| ⚙️ **Backend Systems** | Scalable APIs, database design, system architecture |
+| 🔧 **DevOps & Tools** | Docker, performance optimization, CI/CD |
+| 🧠 **Computer Science** | Algorithms, data structures, elegant solutions |
+| 🤖 **Emerging Tech** | AI integration, performance monitoring |
 
-###
+---
+
+## 💡 Philosophy
+
+> *"Good code is like good design — it's invisible because it just works. It shouldn't require documentation to understand what it does; it should be clear and elegant by nature."*
+
+I believe in:
+
+- ✅ Writing code for humans, not for compilers
+- ✅ Performance optimization as a feature, not an afterthought
+- ✅ Testing and reliability as non-negotiable
+- ✅ Continuous improvement and refactoring
+- ✅ Sharing knowledge and helping others grow
+
+---
+
+## 🌱 Fun Facts About Me
+
+- 🌙 Night owl developer (2 AM coding sessions are my jam)
+- 🎮 Occasional gamer, mostly thinking about code while playing
+- ☕ Professional coffee consumer with strong opinions about espresso
+- 📖 Reader of tech blogs, architecture patterns, and design principles
+- 🎵 Believe great code has rhythm and flow like good music
+- 🧗 Problem solver at heart — love debugging like it's a puzzle game
+
+---
+
+## 📬 Let's Connect
+
+I'm always interested in:
+
+- 🤝 Collaborating on interesting projects
+- 💬 Discussing tech, architecture, and best practices
+- 🎯 Mentoring or being mentored
+- 🚀 Exploring new technologies together
+
+**Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/vincent-bichat/) or [Email](mailto:vincent.bichat@epitech.eu)**
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vincbct34/vincbct34/output/snake.svg" alt="Contribution Snake" width="100%" />
+</div>
+
+<div align="center">
+  <sub>💻 Crafted with passion • Always shipping, always learning</sub>
+</div>
