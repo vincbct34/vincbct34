@@ -1,8 +1,5 @@
-<div align="center">
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&lines=Full-Stack+Developer;Performance+Enthusiast;Always+Learning;Ship+Quality+Code)
 
-</div>
 <div align="center">
 
 # Vincent Bichat
